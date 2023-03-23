@@ -1,0 +1,15 @@
+C:\Users\Brand\Desktop\Class-Activities\ShoppingCartApp\bin\Debug\net7.0\ShoppingCartApp.exe
+C:\Users\Brand\Desktop\Class-Activities\ShoppingCartApp\bin\Debug\net7.0\ShoppingCartApp.deps.json
+C:\Users\Brand\Desktop\Class-Activities\ShoppingCartApp\bin\Debug\net7.0\ShoppingCartApp.runtimeconfig.json
+C:\Users\Brand\Desktop\Class-Activities\ShoppingCartApp\bin\Debug\net7.0\ShoppingCartApp.dll
+C:\Users\Brand\Desktop\Class-Activities\ShoppingCartApp\bin\Debug\net7.0\ShoppingCartApp.pdb
+C:\Users\Brand\Desktop\Class-Activities\ShoppingCartApp\obj\Debug\net7.0\ShoppingCartApp.csproj.AssemblyReference.cache
+C:\Users\Brand\Desktop\Class-Activities\ShoppingCartApp\obj\Debug\net7.0\ShoppingCartApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brand\Desktop\Class-Activities\ShoppingCartApp\obj\Debug\net7.0\ShoppingCartApp.AssemblyInfoInputs.cache
+C:\Users\Brand\Desktop\Class-Activities\ShoppingCartApp\obj\Debug\net7.0\ShoppingCartApp.AssemblyInfo.cs
+C:\Users\Brand\Desktop\Class-Activities\ShoppingCartApp\obj\Debug\net7.0\ShoppingCartApp.csproj.CoreCompileInputs.cache
+C:\Users\Brand\Desktop\Class-Activities\ShoppingCartApp\obj\Debug\net7.0\ShoppingCartApp.dll
+C:\Users\Brand\Desktop\Class-Activities\ShoppingCartApp\obj\Debug\net7.0\refint\ShoppingCartApp.dll
+C:\Users\Brand\Desktop\Class-Activities\ShoppingCartApp\obj\Debug\net7.0\ShoppingCartApp.pdb
+C:\Users\Brand\Desktop\Class-Activities\ShoppingCartApp\obj\Debug\net7.0\ShoppingCartApp.genruntimeconfig.cache
+C:\Users\Brand\Desktop\Class-Activities\ShoppingCartApp\obj\Debug\net7.0\ref\ShoppingCartApp.dll
